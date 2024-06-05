@@ -30,4 +30,7 @@ La primera iteración del modelo tuvo un total de 5 épocas que llevaron la exac
 El graficado de los resultados es sustentado por el escrito: 
 #### He, K., Zhang, X., Ren, S., & Sun, J. (2015). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778). Enlace: https://arxiv.org/abs/1512.03385
 El paper determina el uso de gráficas de puntos para visualizar el error de entrenamiento y validación durante el entrenamiento de la red ResNet como un acercamiento adecuado y visualmente atractivo para una posterior toma de decisiones.. 
-
+![image](https://github.com/CamalichM/chihuaha_or_muffin/assets/99758150/1efefa9c-8063-4fda-9ee8-84ca847bda11)
+#### Matriz de Confusión
+Esta matriz es una tabla que muestra la cantidad de predicciones correctas e incorrectas desglosadas por cada clase. Esto permite entender no solo la precisión general del modelo, sino también el tipo de errores que está cometiendo. La validez de esta métrica se encuentra en el siguiente escrito, el cual presenta ejemplos detallados y explicaciones claras para ayudar a los lectores a comprender e interpretar la matriz de confusión de manera efectiva: 
+#### "Confusion Matrix Analysis: A Practical Guide for Machine Learning Classification Problems" por Singh, A., & Thakur, M. (2022). International Journal of Advanced Computer Science and Applications, 13(1), 1-10. https://joecsa.coecsa.org/index.php/joecsa/about
